@@ -1,3 +1,6 @@
+
+<img width="800" height="488" alt="image" src="https://github.com/user-attachments/assets/90c8ac91-fb4e-4211-85ae-69d8f5f898e6" />
+
 # fn-bing-wallpaper
 
 飞牛 fnOS 应用：**每日自动轮换必应 4K 壁纸**
