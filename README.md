@@ -14,7 +14,7 @@
 
 ## 安装
 
-1. 下载 `fn-bing-wallpaper.fpk`
+1. 下载 `fn-bing-wallpaper-1.1.0.fpk`
 2. 飞牛 OS → 应用中心 → **手动安装** → 选择该文件
 3. 安装完成后启动即可
 
